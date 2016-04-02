@@ -8,8 +8,9 @@
     "url": "git://github.com/sweetpi/i2c-lcd.git"
   },
   "dependencies": {
+    "bluebird": "~2.9.13",
     "i2c": "~0.1.7",
-    "bluebird": "~2.9.13"
+    "i2c-bus": "^1.0.2"
   },
   "keywords": [
     "PCF8574P",
